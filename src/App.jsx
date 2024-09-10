@@ -12,6 +12,7 @@ function App() {
       <h1>AIFAN</h1>
       <h3>Contact:</h3>
       <a href="https://t.me/@baxt1y0rov">Developer</a>
+      <h6>---------------</h6>
       <a href="https://t.me/@aiuzbe">Visit the Channel</a>
     </>
   )
